@@ -1,0 +1,13 @@
+.AddUser{
+    margin-top: 5px;
+    height: 100vh;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.AddUser .name{
+    margin-right: 5px;
+}
+.AddUser form{
+    width: 100%;
+}
